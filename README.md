@@ -1,3 +1,3 @@
-# Diversity & Inclusion Analysis Dashboard
+# Diversity-Inclusion_Analysis_Dashboard
 
 Diversity & Inclusion project analysis is a comprehensive effort to promote an inclusive workplace that celebrates diversity and ensures equal opportunities for all. Through extensive research and data collection, we have delved into various aspects of our organization to understand the current state of diversity and identify areas for improvement. To effectively visualize and communicate our findings, we leveraged the power of Power BI. Using this powerful data visualization tool, we created interactive and dynamic dashboards that showcase key insights and trends.With the help of Power BI.
